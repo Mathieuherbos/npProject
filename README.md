@@ -13,6 +13,8 @@ We have 4 weeks to finish this project, the due date is monday the 16th of novem
 ## The project itself 
 The project I chose is a dating app kinda like Tinder but for Developpers.
 ## Moke up 
+- idea of the way of the pages (first edit):
+(diagramme first edit)[assets/pictures/diagramme1.PNG]
 ## Techonologies 
 ## Screenshot 
 ## Usefull links used 
