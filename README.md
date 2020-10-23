@@ -7,6 +7,7 @@ My objectives are :
 - Make it look nice for the user.
 - Learn and improve PHP (MVC).
 - Make an *important* work on my own.
+- Using an API
 
 ## Deadline
 We have 4 weeks to finish this project, the due date is monday the 16th of november.
