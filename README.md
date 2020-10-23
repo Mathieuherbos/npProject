@@ -14,6 +14,7 @@ We have 4 weeks to finish this project, the due date is monday the 16th of novem
 The project I chose is an actualitty page about cryptocurrency.
 ## Moke up 
 - idea of the way of the pages (first edit):
+[idea of the way of the pages (first edit)](/assets/pictures/StructureOOPprojectbrouillon.pdf)
 
 ## Techonologies 
 ## Screenshot 
