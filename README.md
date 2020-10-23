@@ -2,17 +2,20 @@
 Here is the link to the repo with the rules of the project [OOP npProject](https://github.com/becodeorg/BXL-Swartz-3-21/tree/master/09-OOP-npProject).
 ## Objectives 
 My objectives are : 
-- Create a kinda like Tinder dor developpers using HTML, CSS, JavaScript, Node.JS, React, and MongoDB.
+- Create an actualitty page about cryptocurrency using HTML, CSS, JavaScript, and PHP.
 - Respect the deadlines.
 - Make it look nice for the user.
-- Learn and improve Node.JS, React and MongoDB.
+- Learn and improve PHP (MVC).
 - Make an *important* work on my own.
 
 ## Deadline
 We have 4 weeks to finish this project, the due date is monday the 16th of november.
 ## The project itself 
-The project I chose is a dating app kinda like Tinder but for Developpers.
+The project I chose is an actualitty page about cryptocurrency.
 ## Moke up 
+- idea of the way of the pages (first edit):
+[idea of the way of the pages (first edit)](/assets/pictures/structurebrouillon.png)
+
 ## Techonologies 
 ## Screenshot 
 ## Usefull links used 
