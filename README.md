@@ -18,6 +18,12 @@ The project I chose is an actualitty page about cryptocurrency.
 ![idea of the way of the pages (first edit)](/assets/pictures/structurebrouillon.PNG)
 
 ## Techonologies 
+- HTML & CSS
+- PHP & MySQL
+- JS
+- API's
 ## Screenshot 
 ## Usefull links used 
+[https://packagist.org/packages/cryptocontrol/crypto-news-api](https://packagist.org/packages/cryptocontrol/crypto-news-api)
+
 
