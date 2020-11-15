@@ -14,7 +14,7 @@ We have 4 weeks to finish this project, the due date is monday the 16th of novem
 ## The project itself 
 The project I chose is an actualitty page about cryptocurrency.
 ## Moke up 
-- idea of the way of the pages (first edit):
+idea of the way of the pages (first edit):
 ![idea of the way of the pages (first edit)](/assets/pictures/structurebrouillon.PNG)
 
 ## Techonologies 
@@ -23,7 +23,10 @@ The project I chose is an actualitty page about cryptocurrency.
 - JS
 - API's
 ## Screenshot 
+![Screen shot of the index](/assets/pictures/screenINDEX.PNG)
+![Screen shot of the home](/assets/pictures/screenHOME.PNG)
 ## Usefull links used 
 [https://packagist.org/packages/cryptocontrol/crypto-news-api](https://packagist.org/packages/cryptocontrol/crypto-news-api)
+[https://coinmarketcap.com/api/documentation/v1/](https://coinmarketcap.com/api/documentation/v1/)
 
 
