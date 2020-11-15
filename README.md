@@ -26,7 +26,7 @@ idea of the way of the pages (first edit):
 ![Screen shot of the index](/assets/pictures/screenINDEX.PNG)
 ![Screen shot of the home](/assets/pictures/screenHOME.PNG)
 ## Usefull links used 
-[https://packagist.org/packages/cryptocontrol/crypto-news-api](https://packagist.org/packages/cryptocontrol/crypto-news-api)
-[https://coinmarketcap.com/api/documentation/v1/](https://coinmarketcap.com/api/documentation/v1/)
+- [https://packagist.org/packages/cryptocontrol/crypto-news-api](https://packagist.org/packages/cryptocontrol/crypto-news-api)
+- [https://coinmarketcap.com/api/documentation/v1/](https://coinmarketcap.com/api/documentation/v1/)
 
 
