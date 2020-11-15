@@ -1,0 +1,232 @@
+.index,
+.signinform,
+.signupform {
+  font-family: "Roboto", sans-serif;
+  text-shadow: 0px 4px 7px rgb(31, 29, 29);
+  z-index: 3;
+}
+
+.index {
+  color: rgb(236, 230, 222);
+}
+
+.signinform {
+  color: rgb(240, 237, 230);
+}
+
+.signupform {
+  color: rgb(240, 237, 230);
+}
+
+#cover {
+  background: #222 url("../images/lightsbackground.jpg") center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+#cover2 {
+  background: #222 url("../images/signupbackground.jpg") center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+#cover3 {
+  background: #222 url("../images/indexbackground.jpg") center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+#cover-caption {
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+
+.introtext {
+  font-size: 0.7em;
+}
+
+.signinform,
+.signupform {
+  background-color: rgb(223, 222, 219, 0.2);
+  border-radius: 0.4em;
+  padding: 1em;
+  line-height: 50%;
+  z-index: 1;
+}
+
+
+
+.gobtn {
+  margin-top: 1em;
+}
+
+.usernameSi,
+.passwordSi {
+  padding-top: 1.1em;
+  font-size: 0.9em;
+  z-index: 2;
+}
+
+input[type="text"],
+input[type="password"] {
+  background-color: rgba(243, 239, 239, 0.9);
+  border-radius: 1em;
+  border: none;
+  color: rgb(15, 15, 15);
+  
+}
+
+.title {
+  color: rgb(243, 240, 237);
+  font-family: "Archivo Black", sans-serif;
+  text-shadow: 0px 4px 7px rgb(31, 29, 29);
+}
+
+.form-radio {
+  padding-top: 1em;
+}
+
+/* form validation */
+.invalid-feedback{
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+}
+
+/* home.php */
+
+.jumbotron {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url("../images/jumbotron.jpg");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+}
+
+.heading {
+  padding: 50px;
+}
+
+.heading h1 {
+  font-size: 5rem;
+}
+
+.heading p {
+  font-size: 2.5rem;
+  
+}
+
+.form-group label {
+  font-size: 1.5rem;
+}
+
+.input-group {
+  width: 55%;
+  margin: auto;
+}
+
+/* TOP PICKS */
+
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 2rem;
+  text-align: center;
+  margin: 2rem;
+}
+
+/* Carousel */
+
+.carousel-wrap {
+  width: 1000px;
+  margin: auto;
+  position: relative;
+}
+.owl-carousel .owl-nav{
+  overflow: hidden;
+  height: 0px;
+}
+
+.owl-theme .owl-dots .owl-dot.active span, 
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #2caae1;
+}
+
+/* Comments */
+
+
+.comments {
+  font-family: "Roboto", sans-serif;
+  text-shadow: 0px 4px 7px rgb(31, 29, 29);
+  color: white;
+  text-align: center;
+}
+
+#commentText {
+  display: block;
+  margin-bottom: 10px;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+  font-size: 1.2rem;
+}
+
+#commentButton {
+  margin: 2rem;
+  margin-bottom: 3rem;
+  padding: 1rem;
+  padding-left: 1.7rem;
+  padding-right: 1.7rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+hr {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+  border: 0;
+  width: 75%;
+  border-top: 1px solid rgba(255, 255, 255, 0.664);
+}
+
+.comUser {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: lightskyblue;
+  margin-bottom: 0;
+}
+.comDate {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: lightgrey;
+  margin: 15px;
+}
+
+.comBody {
+  text-align: center;
+  font-size: 1.15rem;
+  margin: 1.5rem;
+}
+
+.premium {
+  font-size: 1em;
+  font-weight: bold;
+}
