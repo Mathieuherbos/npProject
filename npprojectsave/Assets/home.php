@@ -116,12 +116,25 @@ if(!isset($_SESSION['userN'])){
     
 
 
-    <!-- random picks -->
-<?php
+<div class ="container">
+    <div class="row">
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+        <div class=" coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" 
+        data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" 
+        data-stats="USD" style="color:white"></div>
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+        <div class="coinmarketcap-currency-widget" data-currencyid="1027" data-base="USD"
+        data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" 
+        data-stats="USD" style="color:white"></div>
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+        <div class="coinmarketcap-currency-widget" data-currencyid="52" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" 
+        data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD" style="color:white"></div>
+        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+        <div class="coinmarketcap-currency-widget" data-currencyid="1975" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" 
+        data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD" style="color:white"></div>
 
-//  random videos
-$bdd = new PDO ('mysql:host=localhost;port=3306;dbname=npproject','root','', array(PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION));
-?>
+    </div>
+</div>
 
 
 
