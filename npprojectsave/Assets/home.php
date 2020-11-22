@@ -114,27 +114,93 @@ if(!isset($_SESSION['userN'])){
     }
     ?>
     
-
+    <!-- banner crypto -->
+<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/coinMarquee.js"></script>
+<div id="coinmarketcap-widget-marquee" coins="1,1027,825,52,1975,2011,1697" currency="EUR" theme="dark" transparent="false" show-symbol-logo="true"></div>
 
 <div class ="container">
-    <div class="row">
-        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-        <div class=" coinmarketcap-currency-widget" data-currencyid="1" data-base="USD" 
-        data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" 
-        data-stats="USD" style="color:white"></div>
-        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-        <div class="coinmarketcap-currency-widget" data-currencyid="1027" data-base="USD"
-        data-secondary="" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" 
-        data-stats="USD" style="color:white"></div>
-        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-        <div class="coinmarketcap-currency-widget" data-currencyid="52" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" 
-        data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD" style="color:white"></div>
-        <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-        <div class="coinmarketcap-currency-widget" data-currencyid="1975" data-base="USD" data-secondary="" data-ticker="true" data-rank="true" 
-        data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD" style="color:white"></div>
-
-    </div>
+<!-- TEST ARTICLE-->
+            <div class="ccpw-container-rss-view ccpw-ticker-rss-view"><ul  id="ccpw-rss-feed-1435">
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/usdt-towers-over-30-stablecoins-tethers-market-cap-grew-by-2-million-percent-in-just-four-years/">
+                        USDT Towers Over 30 Stablecoins- Tether’s Market Cap Grew by 2 Million Percent in Just Four Years</a></h2>
+                        <div class="feed-publish-date"><span>Bitcoin News</span> - 22 November 2020, 7:30 am</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/usdt-towers-over-30-stablecoins-tethers-market-cap-grew-by-2-million-percent-in-just-four-years/">
+                        <img src="https://news.bitcoin.com/wp-content/uploads/2020/11/usdt-towers-over-30-stablecoins-tethers-market-cap-grew-by-2-million-percent-in-just-four-years-768x432.jpg " style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; width: 100%;"></a>
+                        <p class="news-desc">During the last two years since the initial bear market after the 2017 bull run, stablecoins have been extremely popular. Today, statistics show that the market capitalization of all the notable stablecoins today is hovering above the $23.9 billion mark. Out of more than 30 stablecoins in 2020, tether is still a behemoth capturing 76.15%&hellip;<span class="more-text">
+                        <a target="__blank" rel="nofollow"  href="https://news.bitcoin.com/usdt-towers-over-30-stablecoins-tethers-market-cap-grew-by-2-million-percent-in-just-four-years/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/wallex-the-rainbow-in-the-european-grey-zone/">
+                        Wallex: The Rainbow in The European Grey Zone</a></h2><div class="feed-publish-date"><span>Bitcoin News</span> - 22 November 2020, 6:00 am</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/wallex-the-rainbow-in-the-european-grey-zone/">
+                        <img src="https://news.bitcoin.com/wp-content/uploads/2020/11/photo5312355902537445378-768x432.jpg"style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; width: 100%;"></a>
+                        <p class="news-desc">The evolution of new digital technologies has created a new shift in the value proposition for financial products and services. Digital asset management based on distributed ledger technology has opened the gates to financial institutions and regulators, with the aim of disrupting this new wave. Nevertheless, it has also opened the door for the creation&hellip;
+                        <span class="more-text"><a target="__blank" rel="nofollow"  href="https://news.bitcoin.com/wallex-the-rainbow-in-the-european-grey-zone/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/silk-road-bitcoin-seizure-analytics-firm-claims-tokens-worth-millions-still-outstanding/">
+                        Silk Road Bitcoin Seizure: Analytics Firm Claims Tokens Worth Millions Still Outstanding</a></h2>
+                        <div class="feed-publish-date"><span>Bitcoin News</span> - 22 November 2020, 2:30 am</div><div class="rss-desc">
+                        <a target="__blank" rel="nofollow" href="https://news.bitcoin.com/silk-road-bitcoin-seizure-analytics-firm-claims-tokens-worth-millions-still-outstanding/">
+                        <img src="https://news.bitcoin.com/wp-content/uploads/2020/11/d44d4538-905a-436c-9eb0-c791fce92755-768x432.jpeg"style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; width: 100%;"></a><p class="news-desc">Analytics firm Coinfirm says the US Department of Justice (DOJ)&#8217;s seizure of digital assets associated with the now-defunct Silk Road left behind tokens worth millions of dollars. According to Coinfirm, there are still valuable balances held on forked addresses originating from that wallet. On November 5, the DOJ announced that a hacker known as Individual&hellip;<span class="more-text">
+                        <a target="__blank" rel="nofollow"  href="https://news.bitcoin.com/silk-road-bitcoin-seizure-analytics-firm-claims-tokens-worth-millions-still-outstanding/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/analysts-institutional-investor-interest-fueling-btc-rally-liquidity-crunch-narrative-debunked/">
+                        Analysts: Institutional Investor Interest Fueling BTC Rally, Liquidity Crunch Narrative Debunked</a></h2><div class="feed-publish-date"><span>Bitcoin News</span>
+                         - 21 November 2020, 11:00 pm</div><div class="rss-desc">
+                        <a target="__blank" rel="nofollow" href="https://news.bitcoin.com/analysts-institutional-investor-interest-fueling-btc-rally-liquidity-crunch-narrative-debunked/">
+                        <img src="https://news.bitcoin.com/wp-content/uploads/2020/11/76854f0b-67bf-49d2-a81b-0e5f5ebb8f76-768x432.jpeg" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; width: 100%;"></a>
+                        <p class="news-desc">Crypto analysts are pushing back against the narrative that the current BTC rally is being fuelled by a liquidity crunch afflicting bitcoin mining pools in China. The liquidity crunch, which is caused by an ongoing regulatory crackdown in that country, has reportedly left miners unable to sell their BTC holdings. Miners Are Selling The analysts&hellip;<span class="more-text"><a target="__blank" rel="nofollow"  href="https://news.bitcoin.com/analysts-institutional-investor-interest-fueling-btc-rally-liquidity-crunch-narrative-debunked/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/paypal-bought-70-of-all-newly-mined-bitcoin-last-month-as-demand-rockets/">
+                        Paypal Bought 70% of All Newly Mined Bitcoin Last Month as Demand Rockets</a></h2><div class="feed-publish-date"><span>Bitcoin News</span> - 21 November 2020, 9:10 pm</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://news.bitcoin.com/paypal-bought-70-of-all-newly-mined-bitcoin-last-month-as-demand-rockets/">
+                        <img src="https://news.bitcoin.com/wp-content/uploads/2020/11/paypal-bought-70-of-all-newly-mined-bitcoin-last-month-as-demand-rockets-768x432.jpg" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; width: 100%;"></a>
+                        <p class="news-desc">Paypal bought up to 70% of all the newly mined bitcoin since the payments giant started offering cryptocurrency services four weeks ago. Now that&#8217;s according to estimates by hedge fund manager Pantera Capital, as revealed in its latest monthly blockchain letter. Together with Square&#8217;s Cash App, the two companies are buying more than 100% of&hellip;<span class="more-text"><a target="__blank" rel="nofollow"  href="https://news.bitcoin.com/paypal-bought-70-of-all-newly-mined-bitcoin-last-month-as-demand-rockets/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/chainalysis-already-3700000-bitcoin-lost-forever/">
+                        Chainalysis: Already 3,700,000 Bitcoin lost forever</a></h2><div class="feed-publish-date"><span>The Bitcoin News – Bitcoin and Blockchain News</span> - 21 November 2020, 6:40 pm</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/chainalysis-already-3700000-bitcoin-lost-forever/">
+                        <img src="https://thebitcoinnews.com/wp-content/uploads/2020/11/Bitcoin-lost-forever.jpg" style="max-width: 100%; height: auto;"></a>
+                        <p class="news-desc">The amount of Bitcoin is known to be limited. But how big is the percentage of lost BTC? Chainalysis gets to the bottom of this question and sees the increased number of institutional investors as a price driver. There are many myths about lost bitcoins. The blockchain analysis company Chainalysis has come to a highly&hellip;<span class="more-text"><a target="__blank"  href="https://thebitcoinnews.com/chainalysis-already-3700000-bitcoin-lost-forever/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/how-institutional-investors-legitimize-bitcoin/">
+                        How institutional investors legitimize Bitcoin</a></h2><div class="feed-publish-date"><span>The Bitcoin News – Bitcoin and Blockchain News</span> - 21 November 2020, 8:13 am</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/how-institutional-investors-legitimize-bitcoin/">
+                        <img src="https://thebitcoinnews.com/wp-content/uploads/2020/11/How-institutional-investors-legitimize-Bitcoin.jpg" style="max-width: 100%; height: auto;"></a>
+                        <p class="news-desc">Bitcoin is maturing into a legitimate financial product that is finding its way into more and more traditional portfolios. Now hedge fund legend Ray Dalio is also expressing interest in BTC. They are the really big ones. Paul Tudor Jones, Stanley Druckermiller and now even Ray Dalio is on the way. While the former have&hellip;<span class="more-text"><a target="__blank"  href="https://thebitcoinnews.com/how-institutional-investors-legitimize-bitcoin/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/vpnmentor-exposes-bitcoin-fraud-for-facebook-users/">
+                        vpnMentor exposes Bitcoin fraud for Facebook users</a></h2><div class="feed-publish-date"><span>The Bitcoin News – Bitcoin and Blockchain News</span> - 19 November 2020, 6:27 pm</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/vpnmentor-exposes-bitcoin-fraud-for-facebook-users/">
+                        <img src="https://thebitcoinnews.com/wp-content/uploads/2020/11/vpnMentor.jpg" style="max-width: 100%; height: auto;"></a>
+                        <p class="news-desc">vpnMentor uncovered a phishing operation targeting hundreds of thousands of Facebook users worldwide and targeting Bitcoin fraud Cyber criminals have stolen Facebook passwords and lured friends of their victims with posts related to them on websites promoting a Bitcoin scam. Security researchers from vpnMentor revealed that they made their entire operations available in an unsecured&hellip;<span class="more-text"><a target="__blank"  href="https://thebitcoinnews.com/vpnmentor-exposes-bitcoin-fraud-for-facebook-users/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/a-detailed-breakdown-of-realios-platform-dex-issuance-network/">
+                        A detailed breakdown of Realio’s Platform, DEX &amp; Issuance Network</a></h2><div class="feed-publish-date"><span>The Bitcoin News – Bitcoin and Blockchain News</span> - 19 November 2020, 3:56 pm</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/a-detailed-breakdown-of-realios-platform-dex-issuance-network/">
+                        <img src="https://thebitcoinnews.com/wp-content/uploads/2020/11/Realio.jpg" style="max-width: 100%; height: auto; display: block; margin-left: auto; margin-right: auto; width: 100%;"></a>
+                        <p class="news-desc">Since 2019, the real estate market has grown by $700 million. There are two huge reasons behind this increase &#8211;&#160; Real estate is considered a safe investment Almost every business is connected to real estate. While several projects are currently creating products that integrate blockchain technology and the real estate market, Realio manages to stand&hellip;<span class="more-text"><a target="__blank"  href="https://thebitcoinnews.com/a-detailed-breakdown-of-realios-platform-dex-issuance-network/">Read More</a></span></p></div></li><br><br>
+                    <li class="ccpw-news">
+                        <h2 class=ccpw-news-link><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/bitconnect-promoter-faces-a-long-prison-sentence/">
+                        BitConnect promoter faces a long prison sentence</a></h2><div class="feed-publish-date"><span>The Bitcoin News – Bitcoin and Blockchain News</span> - 18 November 2020, 2:29 pm</div>
+                        <div class="rss-desc"><a target="__blank" rel="nofollow" href="https://thebitcoinnews.com/bitconnect-promoter-faces-a-long-prison-sentence/">
+                        <img src="https://thebitcoinnews.com/wp-content/uploads/2020/11/BitConnect.jpg" style="max-width: 100%; height: auto; "></a>
+                        <p class="news-desc">A leader in the global crypto pyramid scheme BitConnect faces years in prison. A court ruling is expected in February 2021. John Bigatton, the former chief scammer of the Australian branch of the BitConnect pyramid scheme, may be wandering behind Swedish curtains for a long time. As the Australian Securities &#038; Investments Commission (ASIC) published&hellip;<span class="more-text"><a target="__blank"  href="https://thebitcoinnews.com/bitconnect-promoter-faces-a-long-prison-sentence/">Read More</a></span></p></div></li> <br><br></ul></div><style type='text/css'>
+                        .tickercontainer #ccpw-rss-feed-1435 {background-color:#000000;}
+                        .tickercontainer #ccpw-rss-feed-1435 .ccpw-news a{color:#000;}
+                        .ccpw-news-ticker .tickercontainer li:after {color: #FFFFFF;}
+                        .ccpw-ticker-rss-view #ccpw-rss-feed-1435{background-color:#000000;;}
+                        .ccpw-ticker-rss-view #ccpw-rss-feed-1435 .ccpw-news .feed-publish-date{<color: #FFFFFF;}
+                        .ccpw-ticker-rss-view #ccpw-rss-feed-1435	.ccpw-news .rss-desc p.news-desc {color:#FFFFFF;}
+                        .ccpw-ticker-rss-view #ccpw-rss-feed-1435	.ccpw-news h2.ccpw-news-link a{color:#FFFFFF;}
+                        .rss-desc &gt; a {
+            position: inherit !important;
+                overflow: inherit !important;
+                display: block;
+            }</style>
+            </div></section></div>
 </div>
+
 
 
 
