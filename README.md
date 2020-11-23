@@ -13,6 +13,10 @@ My objectives are :
 We have 4 weeks to finish this project, the due date is monday the 16th of november.
 ## The project itself 
 The project I chose is an actualitty page about cryptocurrency.
+This page will let you : 
+- Read the last articles about cryptocurrencies
+- Check the actual price in euro of the top market cryptos
+- Create your portfolio (under construction)
 ## Moke up 
 idea of the way of the pages (first edit):
 ![idea of the way of the pages (first edit)](/assets/pictures/structurebrouillon.PNG)
@@ -21,7 +25,7 @@ idea of the way of the pages (first edit):
 - HTML & CSS
 - PHP & MySQL
 - JS
-- API's
+- API's and widget
 ## Screenshot 
 ![Screen shot of the index](/assets/pictures/screenINDEX.PNG)
 ![Screen shot of the home](/assets/pictures/screenHOME.PNG)
